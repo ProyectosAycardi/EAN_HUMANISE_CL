@@ -4,6 +4,7 @@
     "bim": "0.6",
     "telefono": "3157106081",
     "correo": "marcelopaez@aycardiestructural.com",
+    "cantidades":"AE-0466 CANTIDADES",
     "aliado": "Circular Lab",
     "firmaArquitectura": "Circular Lab",
     "ingenieroSuelos": "Alfonso Uribe S. y Cia. S.A.",
@@ -5847,8 +5848,5 @@
       "documento": "Empalmes mecánicos",
       "pdf": "Empalmes mecánicos.pdf"
     }
-  ],
-  "infoAdicional": {
-  "pdf": "AE-0466 CANTIDADES.pdf"
-}
+  ]
 }
