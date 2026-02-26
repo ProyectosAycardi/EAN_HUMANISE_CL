@@ -2524,7 +2524,7 @@
   "vigas": [
     {
       "id": "201",
-      "piso": "2",
+      "piso": "Cimentacion",
       "seccion": "S=40x65",
       "plano": "EAN-0519-AES-01-EST-N02-PL-540-08.03",
       "cantidad": 1,

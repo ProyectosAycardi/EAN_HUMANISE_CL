@@ -1037,3 +1037,7 @@ body.login {
   max-width: 400px;   
   margin: 20px auto;  
 }
+
+td:last-child {
+  background: #f0f7ff;
+}
