@@ -278,7 +278,7 @@ function seleccionarElemento(el) {
 
       <div class="fila">
         <span class="label">Profundidad</span>
-        <span class="valor">${el.profundidad} m</span>
+        <span class="valor">${el.prof} m</span>
       </div>
 
       <div class="fila">
@@ -299,13 +299,18 @@ function seleccionarElemento(el) {
       </div>
 
       <div class="fila">
-        <span class="label">Volumen total del elemento (m³)</span>
-        <span class="valor">${el.volumen} m³</span>
+        <span class="label" id="labelVolumenPiso">Volumen (m³)</span>
+        <span class="valor" id="kpiVolumen">—</span>
       </div>
 
       <div class="fila">
-        <span class="label">Peso total de refuerzo del elemento (kg)</span>
-        <span class="valor">${el.peso} kg</span>
+        <span class="label">Acero total (kg)</span>
+        <span class="valor" id="kpiPeso">—</span>
+      </div>
+
+      <div class="fila">
+        <span class="label">Cuantía promedio (kg/m³)</span>
+        <span class="valor" id="kpiCuantia">—</span>
       </div>
 
     </div>
@@ -318,6 +323,8 @@ function seleccionarElemento(el) {
 
     // Mostrar comparativo)
     mostrarComparativo(el, "TOTAL");
+
+    actualizarKPIs([el], "TOTAL");
 
     renderGrafica();
     return;
