@@ -253,9 +253,19 @@ function seleccionarElemento(el) {
   }
 
   const campos = CAMPOS[tipo];
+  const pisoSele = selectPiso?.value || "TOTAL";
+
+  let textoPiso = "";
+
+  if (pisoSele === "TOTAL") {
+    textoPiso = "Todos los pisos";
+  }
+  else {
+    textoPiso = `Piso ${pisoSele}`;
+  }
 
   detalle.innerHTML = `
-    <h3>${el.id}</h3>
+    <h3>${el.id} - ${textoPiso} </h3>
 
     <div class="card-detalle" id="cardDetalle">
       ${Object.keys(campos)
