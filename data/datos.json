@@ -1134,7 +1134,7 @@
       "cantidad": 8,
       "prof": 23,
       "longitud": 15,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 60.32,
       "peso": 3840.6
@@ -1145,7 +1145,7 @@
       "cantidad": 2,
       "prof": 23,
       "longitud": 16.9,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 26.55,
       "peso": 1549.9
@@ -1156,7 +1156,7 @@
       "cantidad": 12,
       "prof": 23,
       "longitud": 16.9,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 159.28,
       "peso": 9376.2
@@ -1167,7 +1167,7 @@
       "cantidad": 11,
       "prof": 23,
       "longitud": 18.7,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 103.4,
       "peso": 6357.73
@@ -1178,7 +1178,7 @@
       "cantidad": 6,
       "prof": 23,
       "longitud": 18.7,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 71.38,
       "peso": 4504.8
@@ -1189,7 +1189,7 @@
       "cantidad": 8,
       "prof": 23,
       "longitud": 18.7,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02,02",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
       "resistencia": 28,
       "volumen": 95.17,
       "peso": 6006.4
@@ -1200,7 +1200,7 @@
       "cantidad": 47,
       "prof": 8.5,
       "longitud": 7,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02,03",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
       "resistencia": 28,
       "volumen": 41.3,
       "peso": 6891
@@ -1211,7 +1211,7 @@
       "cantidad": 19,
       "prof": 15,
       "longitud": 9.3,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02,03",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
       "resistencia": 28,
       "volumen": 80.58,
       "peso": 6634.61
@@ -1222,7 +1222,7 @@
       "cantidad": 3,
       "prof": 15,
       "longitud": 5.6,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02,03",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
       "resistencia": 28,
       "volumen": 12.72,
       "peso": 1275.61
@@ -1233,7 +1233,7 @@
       "cantidad": 1,
       "prof": 15,
       "longitud": 4.5,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02,03",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
       "resistencia": 28,
       "volumen": 4.24,
       "peso": 433.2
@@ -1244,7 +1244,7 @@
       "cantidad": 1,
       "prof": 15,
       "longitud": 8,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02,03",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
       "resistencia": 28,
       "volumen": 4.24,
       "peso": 372.33
@@ -1255,7 +1255,7 @@
       "cantidad": 13,
       "prof": 23,
       "longitud": 23,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02,04",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02.04",
       "resistencia": 28,
       "volumen": 299,
       "peso": 32848.348
@@ -1266,7 +1266,7 @@
       "cantidad": 10,
       "prof": 23,
       "longitud": 23,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02,04",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02.04",
       "resistencia": 28,
       "volumen": 257.6,
       "peso": 28098.16
@@ -1277,7 +1277,7 @@
       "cantidad": 4,
       "prof": 23,
       "longitud": 18.6,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02,04",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02.04",
       "resistencia": 28,
       "volumen": 74.4,
       "peso": 5959.008
@@ -1288,7 +1288,7 @@
       "cantidad": 10,
       "prof": 23,
       "longitud": 18.6,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-507-02,05",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-507-02.05",
       "resistencia": 28,
       "volumen": 208.32,
       "peso": 16572.96
@@ -1299,7 +1299,7 @@
       "cantidad": 6,
       "prof": 23,
       "longitud": 23,
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-507-02,05",
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-507-02.05",
       "resistencia": 28,
       "volumen": 154.56,
       "peso": 22770.42
