@@ -16,1115 +16,1115 @@
   "planos": [
     {
       "plano": "EAN-0519-AES-01-EST-PL-601-01.00",
-      "numero": "1",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "01.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMA 3D Y ESPECIFICACIONES",
       "pdf": "EAN-0519-AES-01-EST-PL-601-01.00.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-201-01.01",
-      "numero": "1.01",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "01.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTE ESQUEMATICO E INDICE DE PLANOS",
       "pdf": "EAN-0519-AES-01-EST-PL-201-01.01.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-501-01.02",
-      "numero": "1.02",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "01.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DETALLE GENERALES",
       "pdf": "EAN-0519-AES-01-EST-PL-501-01.02.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-502-01.03",
-      "numero": "1.03",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "01.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DETALLE GENERALES",
       "pdf": "EAN-0519-AES-01-EST-PL-502-01.03.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-101-02.00",
-      "numero": "2",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA LOCALIZACIÓN DE PILOTES",
+      "numero": "02.00",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA LOCALIZACIÓN DE PILOTES, PANTALLAS Y BARRETES",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-101-02.00.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-503-02.01",
-      "numero": "2.01",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "02.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE PANTALLAS",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-503-02.01.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-504-02.02",
-      "numero": "2.02",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "02.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE PILOTES",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-504-02.02.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-505-02.03",
-      "numero": "2.03",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "02.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE PILOTES CONSTRUCTIVOS",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-505-02.03.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-506-02.04",
-      "numero": "2.04",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "02.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE BARRETES",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-506-02.04.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-507-02.05",
-      "numero": "2.05",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "02.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE BARRETES",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-507-02.05.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-202-03.00",
-      "numero": "3",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 1",
+      "numero": "03.00",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "SECUENCIA DE PROCESO CONSTRUCTIVO PASO 1",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-202-03.00.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-203-03.01",
-      "numero": "3.01",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 2",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-203-03.01.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-204-03.02",
-      "numero": "3.02",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 3",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-204-03.02.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-205-03.03",
-      "numero": "3.03",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 4",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-205-03.03.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-206-03.04",
-      "numero": "3.04",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 5",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-206-03.04.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-207-03.05",
-      "numero": "3.05",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 6",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-207-03.05.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-208-03.06",
-      "numero": "3.06",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.06",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 7",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-208-03.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-209-03.07",
-      "numero": "3.07",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.07",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 8",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-209-03.07.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-210-03.08",
-      "numero": "3.08",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.08",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 9",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-210-03.08.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-211-03.09",
-      "numero": "3.09",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.09",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 10",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-211-03.09.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-212-03.10",
-      "numero": "3.1",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.10",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 11",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-212-03.10.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CIM-PL-213-03.11",
-      "numero": "3.11",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "03.11",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "SECUENCIA PROCESO CONSTRUCTIVO PASO 12",
       "pdf": "EAN-0519-AES-01-EST-CIM-PL-213-03.11.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-102-04.00",
-      "numero": "4",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA LOCALIZACION DE MUROS Y COLUMNAS",
+      "numero": "04.00",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA LOCALIZACIÓN DE MUROS Y COLUMNAS",
       "pdf": "EAN-0519-AES-01-EST-PL-102-04.00.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-508-04.01",
-      "numero": "4.01",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE COLUMNAS",
       "pdf": "EAN-0519-AES-01-EST-PL-508-04.01.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-509-04.02",
-      "numero": "4.02",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE COLUMNAS",
       "pdf": "EAN-0519-AES-01-EST-PL-509-04.02.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-510-04.03",
-      "numero": "4.03",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE COLUMNAS",
       "pdf": "EAN-0519-AES-01-EST-PL-510-04.03.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-511-04.04",
-      "numero": "4.04",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE COLUMNAS",
       "pdf": "EAN-0519-AES-01-EST-PL-511-04.04.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-512-04.05",
-      "numero": "4.05",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE  MURO TIPO 1",
       "pdf": "EAN-0519-AES-01-EST-PL-512-04.05.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-513-04.06",
-      "numero": "4.06",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.06",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE MURO TIPO 2",
       "pdf": "EAN-0519-AES-01-EST-PL-513-04.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-514-04.07",
-      "numero": "4.07",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "04.07",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE MUROS TIPO 3 Y 4",
       "pdf": "EAN-0519-AES-01-EST-PL-514-04.07.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-515-05.00",
-      "numero": "5",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DETALLES DEL ANFITEATRO",
+      "numero": "05.00",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES ANFITEATRO",
       "pdf": "EAN-0519-AES-01-EST-PL-515-05.00.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-PL-516-05.01",
-      "numero": "5.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DETALLES DEL ANFITEATRO",
+      "numero": "05.01",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES ANFITEATRO",
       "pdf": "EAN-0519-AES-01-EST-PL-516-05.01.pdf"
     },
     {
+      "plano": "EAN-0519-AES-01-EST-PL-517-05.02",
+      "numero": "05.02",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES ANFITEATRO",
+      "pdf": "EAN-0519-AES-01-EST-PL-517-05.02.pdf"
+    },
+    {
+      "plano": "EAN-0519-AES-01-EST-PL-518-05.03",
+      "numero": "05.03",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES ANFITEATRO",
+      "pdf": "EAN-0519-AES-01-EST-PL-518-05.03.pdf"
+    },
+    {
       "plano": "EAN-0519-AES-01-EST-PL-103-06.00",
-      "numero": "6",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "06.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE CIMENTACIÓN",
       "pdf": "EAN-0519-AES-01-EST-PL-103-06.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-517-06.01",
-      "numero": "6.01",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-519-06.01",
+      "numero": "06.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-517-06.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-519-06.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-518-06.02",
-      "numero": "6.02",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-520-06.02",
+      "numero": "06.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES Y ESQUEMAS 3D",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-518-06.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-520-06.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-519-06.03",
-      "numero": "6.03",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-521-06.03",
+      "numero": "06.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS DE CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-519-06.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-521-06.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-520-06.04",
-      "numero": "6.04",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-522-06.04",
+      "numero": "06.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS DE CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-520-06.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-522-06.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-521-06.05",
-      "numero": "6.05",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-523-06.05",
+      "numero": "06.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS DE CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-521-06.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-523-06.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-522-06.06",
-      "numero": "6.06",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-524-06.06",
+      "numero": "06.06",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS DE CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-522-06.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-524-06.06.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-523-06.07",
-      "numero": "6.07",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-525-06.07",
+      "numero": "06.07",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS DE CIMENTACIÓN",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-523-06.07.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-525-06.07.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-524-06.08",
-      "numero": "6.08",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-526-06.08",
+      "numero": "06.08",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE DADOS",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-524-06.08.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-526-06.08.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CIM-PL-525-06.09",
-      "numero": "6.09",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-CIM-PL-527-06.09",
+      "numero": "06.09",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE DADOS",
-      "pdf": "EAN-0519-AES-01-EST-CIM-PL-525-06.09.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CIM-PL-527-06.09.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N01-PL-104-07.00",
-      "numero": "7",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "07.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE PISO 1 ETAPA 1 (ANILLO)",
       "pdf": "EAN-0519-AES-01-EST-N01-PL-104-07.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-105-07.02",
-      "numero": "7.01",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-528-07.01",
+      "numero": "07.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 1 (ANILLO)",
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-528-07.01.pdf"
+    },
+    {
+      "plano": "EAN-0519-AES-01-EST-N01-PL-105-07.02",
+      "numero": "07.02",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA DE PISO 1 ETAPA 2 (COMPLEMENTO)",
       "pdf": "EAN-0519-AES-01-EST-N01-PL-105-07.02.pdf"
     },
     {
+      "plano": "EAN-0519-AES-01-EST-N01-PL-529-07.03",
+      "numero": "07.03",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 2 (COMPLEMENTO)",
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-529-07.03.pdf"
+    },
+    {
       "plano": "EAN-0519-AES-01-EST-N01-PL-106-07.04",
-      "numero": "7.02",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA DE PISO 1 ETAPA 2 (COMPLEMENTO)",
+      "numero": "07.04",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA DE PISO 1 ETAPA 3 (DEMOLICIÓN)",
       "pdf": "EAN-0519-AES-01-EST-N01-PL-106-07.04.pdf"
     },
     {
+      "plano": "EAN-0519-AES-01-EST-N01-PL-530-07.05",
+      "numero": "07.05",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 3 (DEMOLICIÓN)",
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-530-07.05.pdf"
+    },
+    {
       "plano": "EAN-0519-AES-01-EST-N01-PL-107-07.06",
-      "numero": "7.03",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 2 (COMPLEMENTO)",
+      "numero": "07.06",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA DE PISO 1 ETAPA 4 (COMPLEMENTO ANFITEATRO)",
       "pdf": "EAN-0519-AES-01-EST-N01-PL-107-07.06.pdf"
     },
     {
+      "plano": "EAN-0519-AES-01-EST-N01-PL-531-07.07",
+      "numero": "07.07",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "ESQUEMA 3D PISO 1 ETAPA 4 (COMPLEMENTO ANFITEATRO)",
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-531-07.07.pdf"
+    },
+    {
       "plano": "EAN-0519-AES-01-EST-N01-PL-108-07.08",
-      "numero": "7.04",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA DE PISO 1 ETAPA 3 (DEMOLICIÓN)",
+      "numero": "07.08",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA DE PISO 1 ETAPA 5 (DEFINITIVA)",
       "pdf": "EAN-0519-AES-01-EST-N01-PL-108-07.08.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-526-07.01",
-      "numero": "7.05",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 3 (DEMOLICIÓN)",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-526-07.01.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-527-07.03",
-      "numero": "7.06",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA DE PISO 1 ETAPA 4 (COMPLEMENTO ANFITEATRO)",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-527-07.03.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-528-07.05",
-      "numero": "7.07",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES Y ESQUEMA 3D PISO 1 ETAPA 4 (COMPLEMENTO ANFITEATRO)",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-528-07.05.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-529-07.07",
-      "numero": "7.08",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA DE PISO 1 ETAPA 5 (DEFINITIVA)",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-529-07.07.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-530-07.09",
-      "numero": "7.09",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-532-07.09",
+      "numero": "07.09",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES Y ESQUEMA 3D PISO 1 (DEFINITIVA)",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-530-07.09.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-532-07.09.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-531-07.10",
-      "numero": "7.1",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-531-07.10.pdf"
+      "plano": "EAN-0519-AES-01-EST-N01-PL-533-07.10",
+      "numero": "07.10",
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES CERCHA PISO 1",
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-533-07.10.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-532-07.11",
-      "numero": "7.11",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-534-07.11",
+      "numero": "07.11",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-532-07.11.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-534-07.11.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-533-07.12",
-      "numero": "7.12",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-535-07.12",
+      "numero": "07.12",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-533-07.12.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-535-07.12.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-534-07.13",
-      "numero": "7.13",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-536-07.13",
+      "numero": "07.13",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-534-07.13.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-536-07.13.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-535-07.14",
-      "numero": "7.14",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-537-07.14",
+      "numero": "07.14",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-535-07.14.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-537-07.14.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-536-07.15",
-      "numero": "7.15",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-538-07.15",
+      "numero": "07.15",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-536-07.15.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-538-07.15.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N01-PL-537-07.16",
-      "numero": "7.16",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N01-PL-539-07.16",
+      "numero": "07.16",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES DE VIGAS PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-N01-PL-537-07.16.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N01-PL-539-07.16.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N02-PL-109-08.00",
-      "numero": "8",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "08.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA PISO 2",
       "pdf": "EAN-0519-AES-01-EST-N02-PL-109-08.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-538-08.01",
-      "numero": "8.01",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-540-08.01",
+      "numero": "08.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-538-08.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-540-08.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-539-08.02",
-      "numero": "8.02",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-541-08.02",
+      "numero": "08.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-539-08.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-541-08.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-540-08.03",
-      "numero": "8.03",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-542-08.03",
+      "numero": "08.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-540-08.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-542-08.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-541-08.04",
-      "numero": "8.04",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-543-08.04",
+      "numero": "08.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-541-08.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-543-08.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-542-08.05",
-      "numero": "8.05",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-544-08.05",
+      "numero": "08.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-542-08.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-544-08.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N02-PL-543-08.06",
-      "numero": "8.06",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N02-PL-545-08.06",
+      "numero": "08.06",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-N02-PL-543-08.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N02-PL-545-08.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N03-PL-110-09.00",
-      "numero": "9",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "09.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA PISO 3",
       "pdf": "EAN-0519-AES-01-EST-N03-PL-110-09.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-544-09.01",
-      "numero": "9.01",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-546-09.01",
+      "numero": "09.01",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-544-09.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-546-09.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-545-09.02",
-      "numero": "9.02",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-547-09.02",
+      "numero": "09.02",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-545-09.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-547-09.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-546-09.03",
-      "numero": "9.03",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-548-09.03",
+      "numero": "09.03",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS  PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-546-09.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-548-09.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-547-09.04",
-      "numero": "9.04",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-549-09.04",
+      "numero": "09.04",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-547-09.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-549-09.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-548-09.05",
-      "numero": "9.05",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-550-09.05",
+      "numero": "09.05",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-548-09.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-550-09.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N03-PL-549-09.06",
-      "numero": "9.06",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-N03-PL-551-09.06",
+      "numero": "09.06",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-N03-PL-549-09.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N03-PL-551-09.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N04-PL-111-10.00",
-      "numero": "10",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "10.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA PISO 4",
       "pdf": "EAN-0519-AES-01-EST-N04-PL-111-10.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-550-10.01",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-552-10.01",
       "numero": "10.01",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES  PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-550-10.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-552-10.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-551-10.02",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-553-10.02",
       "numero": "10.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-551-10.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-553-10.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-552-10.03",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-554-10.03",
       "numero": "10.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-552-10.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-554-10.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-553-10.04",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-555-10.04",
       "numero": "10.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-553-10.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-555-10.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-554-10.05",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-556-10.05",
       "numero": "10.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-554-10.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-556-10.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N04-PL-555-10.06",
+      "plano": "EAN-0519-AES-01-EST-N04-PL-557-10.06",
       "numero": "10.06",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-N04-PL-555-10.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N04-PL-557-10.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N05-PL-112-11.00",
-      "numero": "11",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "11.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE PISO 5",
       "pdf": "EAN-0519-AES-01-EST-N05-PL-112-11.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-556-11.01",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-558-11.01",
       "numero": "11.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES  PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-556-11.01.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTE  PISO 5",
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-558-11.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-557-11.02",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-559-11.02",
       "numero": "11.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-557-11.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-559-11.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-558-11.03",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-560-11.03",
       "numero": "11.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-558-11.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-560-11.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-559-11.04",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-561-11.04",
       "numero": "11.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-559-11.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-561-11.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-560-11.05",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-562-11.05",
       "numero": "11.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-560-11.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-562-11.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N05-PL-561-11.06",
+      "plano": "EAN-0519-AES-01-EST-N05-PL-563-11.06",
       "numero": "11.06",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 5",
-      "pdf": "EAN-0519-AES-01-EST-N05-PL-561-11.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N05-PL-563-11.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N06-PL-113-12.00",
-      "numero": "12",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "12.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE PISO 6",
       "pdf": "EAN-0519-AES-01-EST-N06-PL-113-12.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-562-12.01",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-564-12.01",
       "numero": "12.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES  PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-562-12.01.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTES PISO 6",
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-564-12.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-563-12.02",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-565-12.02",
       "numero": "12.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-563-12.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-565-12.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-564-12.03",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-566-12.03",
       "numero": "12.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-564-12.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-566-12.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-565-12.04",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-567-12.04",
       "numero": "12.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-565-12.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-567-12.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-566-12.05",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-568-12.05",
       "numero": "12.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-566-12.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-568-12.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N06-PL-567-12.06",
+      "plano": "EAN-0519-AES-01-EST-N06-PL-569-12.06",
       "numero": "12.06",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 6",
-      "pdf": "EAN-0519-AES-01-EST-N06-PL-567-12.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N06-PL-569-12.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-N07-PL-114-13.00",
-      "numero": "13",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "13.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE PISO 7",
       "pdf": "EAN-0519-AES-01-EST-N07-PL-114-13.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N07-PL-568-13.01",
+      "plano": "EAN-0519-AES-01-EST-N07-PL-570-13.01",
       "numero": "13.01",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES  PISO 7",
-      "pdf": "EAN-0519-AES-01-EST-N07-PL-568-13.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N07-PL-570-13.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N07-PL-569-13.02",
+      "plano": "EAN-0519-AES-01-EST-N07-PL-571-13.02",
       "numero": "13.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "ESQUEMAS 3D PISO 7",
-      "pdf": "EAN-0519-AES-01-EST-N07-PL-569-13.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N07-PL-571-13.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N07-PL-570-13.03",
+      "plano": "EAN-0519-AES-01-EST-N07-PL-572-13.03",
       "numero": "13.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 7",
-      "pdf": "EAN-0519-AES-01-EST-N07-PL-570-13.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N07-PL-572-13.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N07-PL-571-13.04",
+      "plano": "EAN-0519-AES-01-EST-N07-PL-573-13.04",
       "numero": "13.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 7",
-      "pdf": "EAN-0519-AES-01-EST-N07-PL-571-13.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N07-PL-573-13.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-N07-PL-572-13.05",
+      "plano": "EAN-0519-AES-01-EST-N07-PL-574-13.05",
       "numero": "13.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS PISO 7",
-      "pdf": "EAN-0519-AES-01-EST-N07-PL-572-13.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-N07-PL-574-13.05.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-CUB-PL-115-14.00",
-      "numero": "14",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "14.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE CUBIERTA",
       "pdf": "EAN-0519-AES-01-EST-CUB-PL-115-14.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-573-14.01",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-575-14.01",
       "numero": "14.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES  Y ESQUEMAS 3D CUBIERTA",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-573-14.01.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTES Y ESQUEMAS 3D CUBIERTA",
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-575-14.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-574-14.02",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-576-14.02",
       "numero": "14.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE LOCALIZACIÓN DE PUNTOS DE ANCLAJE Y DUCTOS DE CUBIERTA",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-574-14.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-576-14.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-575-14.03",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-577-14.03",
       "numero": "14.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS CUBIERTA",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-575-14.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-577-14.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-576-14.04",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-578-14.04",
       "numero": "14.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS CUBIERTA",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-576-14.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-578-14.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-577-14.05",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-579-14.05",
       "numero": "14.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS CUBIERTA",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-577-14.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-579-14.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-CUB-PL-578-14.06",
+      "plano": "EAN-0519-AES-01-EST-CUB-PL-580-14.06",
       "numero": "14.06",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA Y CORTES ASCENSOR MONTALIBROS",
-      "pdf": "EAN-0519-AES-01-EST-CUB-PL-578-14.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-CUB-PL-580-14.06.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-SCU-PL-116-15.00",
-      "numero": "15",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "15.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA DE CUBIERTA DE MÁQUINAS",
       "pdf": "EAN-0519-AES-01-EST-SCU-PL-116-15.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-SCU-PL-579-15.01",
+      "plano": "EAN-0519-AES-01-EST-SCU-PL-581-15.01",
       "numero": "15.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES Y ESQUEMA 3D CUBIERTA DE MAQUINAS",
-      "pdf": "EAN-0519-AES-01-EST-SCU-PL-579-15.01.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTE Y ESQUEMA 3D CUBIERTA DE MÁQUINAS",
+      "pdf": "EAN-0519-AES-01-EST-SCU-PL-581-15.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-SCU-PL-580-15.02",
+      "plano": "EAN-0519-AES-01-EST-SCU-PL-582-15.02",
       "numero": "15.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE VIGAS DE CUBIERTA DE MAQUINAS",
-      "pdf": "EAN-0519-AES-01-EST-SCU-PL-580-15.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-SCU-PL-582-15.02.pdf"
     },
     {
       "plano": "EAN-0519-AES-01-EST-B2-PL-118-16.00",
-      "numero": "16",
-      "version": 0,
-      "fecha": 46059,
+      "numero": "16.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "PLANTA TANQUE DE AGUA",
       "pdf": "EAN-0519-AES-01-EST-B2-PL-118-16.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-581-16.01",
+      "plano": "EAN-0519-AES-01-EST-B2-PL-583-16.01",
       "numero": "16.01",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "CORTES TANQUE DE AGUA",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-581-16.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-B2-PL-583-16.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-582-16.02",
+      "plano": "EAN-0519-AES-01-EST-B2-PL-584-16.02",
       "numero": "16.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECES VIGAS DE CIMENTACIÓN TANQUE DE AGUA",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-582-16.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-B2-PL-584-16.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-583-16.03",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-585-16.03",
       "numero": "16.03",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PLANTA Y CORTES TANQUE DE AGUA ENTRE EJES 1-2",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-583-16.03.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA Y CORTE TANQUE DE AGUA ENTRE EJES 1 Y 2",
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-585-16.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-584-16.04",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-586-16.04",
       "numero": "16.04",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "PCORTES TANQUE DE AGUA ENTRE EJES 1-2",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-584-16.04.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTES TANQUE DE AGUA ENTRE EJES 1 Y 2",
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-586-16.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-585-16.05",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-587-16.05",
       "numero": "16.05",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES TANQUE DE AGUA",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-585-16.05.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "PLANTA Y CORTE TANQUE DE AGUA ENTRE EJES 5 Y 6",
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-587-16.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-586-16.06",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-588-16.06",
       "numero": "16.06",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "CORTES TANQUE DE AGUA",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-586-16.06.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "CORTE TANQUE DE AGUA ENTRE EJES 5 Y 6",
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-588-16.06.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-B2-PL-587-16.07",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-589-16.07",
       "numero": "16.07",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "POZO EYECTOR TIPO 1",
-      "pdf": "EAN-0519-AES-01-EST-B2-PL-587-16.07.pdf"
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-589-16.07.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-588-16.08",
+      "plano": "EAN-0519-AES-01-EST-B1-PL-590-16.08",
       "numero": "16.08",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "POZO EYECTOR TIPO 2",
-      "pdf": "EAN-0519-AES-01-EST-PL-588-16.08.pdf"
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-590-16.08.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-589-16.08",
-      "numero": "16.08",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-B1-PL-591-16.09",
+      "numero": "16.09",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "POZO EYECTOR TIPO 3",
-      "pdf": "EAN-0519-AES-01-EST-PL-589-16.08.pdf"
+      "pdf": "EAN-0519-AES-01-EST-B1-PL-591-16.09.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-588-17.00",
-      "numero": "17",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-PL-592-17.00",
+      "numero": "17.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE CIMENTACIÓN A PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-PL-588-17.00.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-592-17.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-589-17.01",
+      "plano": "EAN-0519-AES-01-EST-PL-593-17.01",
       "numero": "17.01",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE CIMENTACIÓN A PISO 1",
-      "pdf": "EAN-0519-AES-01-EST-PL-589-17.01.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-593-17.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-591-17.03",
+      "plano": "EAN-0519-AES-01-EST-PL-594-17.02",
       "numero": "17.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE PISO 1 A PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-PL-591-17.03.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-594-17.02.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-592-17.04",
+      "plano": "EAN-0519-AES-01-EST-PL-595-17.03",
       "numero": "17.03",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE PISO 1 A PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-PL-592-17.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-595-17.03.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-593-17.05",
+      "plano": "EAN-0519-AES-01-EST-PL-596-17.04",
       "numero": "17.04",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 TÍPICA PISOS (2 Y 4 A CUBIERTA)",
-      "pdf": "EAN-0519-AES-01-EST-PL-593-17.05.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-596-17.04.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-594-17.06",
+      "plano": "EAN-0519-AES-01-EST-PL-597-17.05",
       "numero": "17.05",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 TÍPICA PISOS (2 Y 4 A CUBIERTA)",
-      "pdf": "EAN-0519-AES-01-EST-PL-594-17.06.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-597-17.05.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-595-17.02",
+      "plano": "EAN-0519-AES-01-EST-PL-598-17.06",
       "numero": "17.06",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE PISO 3 A PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-PL-595-17.02.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-598-17.06.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-595-17.07",
+      "plano": "EAN-0519-AES-01-EST-PL-599-17.07",
       "numero": "17.07",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 1 DE PISO 3 A PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-PL-595-17.07.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-599-17.07.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-596-17.08",
+      "plano": "EAN-0519-AES-01-EST-PL-5100-17.08",
       "numero": "17.08",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 PISO 1 A PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-PL-596-17.08.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5100-17.08.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-597-17.09",
+      "plano": "EAN-0519-AES-01-EST-PL-5101-17.09",
       "numero": "17.09",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 PISO 1 A PISO 2",
-      "pdf": "EAN-0519-AES-01-EST-PL-597-17.09.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5101-17.09.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-598-17.10",
-      "numero": "17.1",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-PL-5102-17.10",
+      "numero": "17.10",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 TÍPICA PISOS (2 Y 4 A CUBIERTA)",
-      "pdf": "EAN-0519-AES-01-EST-PL-598-17.10.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5102-17.10.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-599-17.11",
+      "plano": "EAN-0519-AES-01-EST-PL-5103-17.11",
       "numero": "17.11",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 PISO 2 A PISO 3",
-      "pdf": "EAN-0519-AES-01-EST-PL-599-17.11.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5103-17.11.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-5100-17.12",
+      "plano": "EAN-0519-AES-01-EST-PL-5104-17.12",
       "numero": "17.12",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 PISO 3 A PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-PL-5100-17.12.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5104-17.12.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-5101-17.13",
+      "plano": "EAN-0519-AES-01-EST-PL-5105-17.13",
       "numero": "17.13",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DESPIECE DE ESCALERA TIPO 2 PISO 3 A PISO 4",
-      "pdf": "EAN-0519-AES-01-EST-PL-5101-17.13.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5105-17.13.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-5102-18.00",
-      "numero": "18",
-      "version": 0,
-      "fecha": 46059,
+      "plano": "EAN-0519-AES-01-EST-PL-5106-18.00",
+      "numero": "18.00",
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DETALLES DE MUROS NO ESTRUCTURALES",
-      "pdf": "EAN-0519-AES-01-EST-PL-5102-18.00.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5106-18.00.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-5103-18.01",
+      "plano": "EAN-0519-AES-01-EST-PL-5107-18.01",
       "numero": "18.01",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DETALLES DE MUROS NO ESTRUCTURALES",
-      "pdf": "EAN-0519-AES-01-EST-PL-5103-18.01.pdf"
+      "version": 1,
+      "fecha": 46094,
+      "contenido": "DETALLES DE ELEMENTOS NO ESTRUCTURALES",
+      "pdf": "EAN-0519-AES-01-EST-PL-5107-18.01.pdf"
     },
     {
-      "plano": "EAN-0519-AES-01-EST-PL-5104-18.02",
+      "plano": "EAN-0519-AES-01-EST-PL-5108-18.02",
       "numero": "18.02",
-      "version": 0,
-      "fecha": 46059,
+      "version": 1,
+      "fecha": 46094,
       "contenido": "DETALLES DE MUROS NO ESTRUCTURALES",
-      "pdf": "EAN-0519-AES-01-EST-PL-5104-18.02.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-PL-5105-18.03",
-      "numero": "18.03",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DETALLES DE MUROS NO ESTRUCTURALES",
-      "pdf": "EAN-0519-AES-01-EST-PL-5105-18.03.pdf"
-    },
-    {
-      "plano": "EAN-0519-AES-01-EST-PL-5106-18.04",
-      "numero": "18.04",
-      "version": 0,
-      "fecha": 46059,
-      "contenido": "DETALLES DE MUROS NO ESTRUCTURALES",
-      "pdf": "EAN-0519-AES-01-EST-PL-5106-18.04.pdf"
+      "pdf": "EAN-0519-AES-01-EST-PL-5108-18.02.pdf"
     }
   ],
   "pilotes": [
