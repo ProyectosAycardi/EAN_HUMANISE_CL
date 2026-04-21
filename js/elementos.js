@@ -186,7 +186,34 @@ function cargarLista() {
       `<option value="TODOS">Todos</option>`;
   }
 
-  // ===== AGREGAR ELEMENTOS =====
+  // ===== COLUMNAS Y MUROS (SIN REPETIR TIPOS) =====
+  if (tipo === "columnas" || tipo === "muros") {
+
+    const pisoSel = document.getElementById("selectPiso")?.value || "TOTAL";
+
+    //Si está en TOTAL → agrupar por ID
+    if (pisoSel === "TOTAL") {
+
+      const unicos = {};
+
+      elementos.forEach((el, i) => {
+        if (!unicos[el.id]) {
+          unicos[el.id] = i;
+        }
+      });
+
+      Object.entries(unicos).forEach(([id, index]) => {
+        const opt = document.createElement("option");
+        opt.value = index;
+        opt.textContent = id;
+        selectElemento.appendChild(opt);
+      });
+
+      return;
+    }
+  }
+
+  // ===== CASO NORMAL =====
   elementos.forEach((el, i) => {
     const nombre = el.id;
     const piso = el.piso ? ` (${el.piso})` : "";
@@ -811,7 +838,7 @@ function mostrarResumenCapitulo() {
       </div>
 
       <div class="fila">
-        <span class="label">Cuantía promedio por área(kg/m²)</span>
+        <span class="label">Cuantía promedio por área(kg/m²) - Calculada como área de cim y pisos aéreos sin cubierta</span>
         <span class="valor">${resumen.cuantiaArea.toFixed(1)}</span>
       </div>
 
@@ -953,28 +980,33 @@ function obtenerTotalProyectoPorTipo(campo) {
 function obtenerOrdenPiso(piso) {
   if (!piso) return 999;
 
-  const p = piso.toString().toLowerCase();
+  const p = piso.toString().toLowerCase().trim();
 
-  // Sótanos y cimentación
-  if ( 
-    p.includes("sot") ||
-    p.includes("b") && /\d/.test(p) ||
-    p.includes("cim") ||
+  // ===== 1. CIMENTACIÓN (SIEMPRE EL MÁS BAJO) =====
+  if (
     p.includes("ciment") ||
+    p === "cim" ||
     p.includes("base")
   ) {
-    // Extrae número si existe (B2, SOT1, etc.)
-    const num = parseInt(p.match(/\d+/)?.[0] || "0", 10);
-    return -100 + num * -1;
+    return -1000; 
   }
 
-  // Pisos normales
+  // ===== 2. SÓTANOS =====
+  if (
+    p.includes("sot") ||
+    (p.includes("b") && /\d/.test(p))
+  ) {
+    const num = parseInt(p.match(/\d+/)?.[0] || "1", 10);
+    return -100 + (-num); // ej: S1 = -101, S2 = -102
+  }
+
+  // ===== 3. PISOS =====
   if (p.includes("piso")) {
     const num = parseInt(p.match(/\d+/)?.[0] || "0", 10);
     return num;
   }
 
-  // Cubiertas
+  // ===== 4. CUBIERTA =====
   if (
     p.includes("cubierta") ||
     p.includes("cub") ||
@@ -983,7 +1015,7 @@ function obtenerOrdenPiso(piso) {
     return 1000;
   }
 
-  // Otros (por seguridad)
+  // ===== 5. OTROS =====
   return 500;
 }
 
